@@ -1,156 +1,32 @@
-# IEEE LAUNCHPAD Job Fair
+# Harikrishnan K 
 
+### About Me
 
+> I am Harikrishnan K, a B.Tech graduate in Computer Science and Engineering, proudly completing my degree in 2024. My journey through college has nurtured a deep passion for web development, and I am excited about creating dynamic and user-friendly websites. Java has always intrigued me, and I have dedicated a significant part of my academic life to mastering this powerful language. My experience with Java has equipped me with the skills to develop robust and scalable applications, which I am eager to apply in real-world projects. As I step into the professional world, I am enthusiastic about contributing to innovative projects and collaborating with like-minded professionals. I am committed to continuous learning and growth, always staying updated with the latest advancements in technology to ensure that I remain at the forefront of web development.
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Personal Portfolio Website**  |  Personal Portfolio                                              | https://harikrishnan-developer.github.io/Harikrishnan-Static-Website/    | https://github.com/harikrishnan-developer/Harikrishnan-Static-Website           |
+| **Task Manager**  | Task manager application                                             | https://harikrishnan-developer.github.io/taskyapplication/   | https://github.com/harikrishnan-developer/taskyapplication          |
+| **Canteen Management System**  | A food Ordering Application        | not uploaded  
+| **Counterfeit Medicine Authentication System Using Iot And Blockchain**  | Authenticating supply chain using iot and blockchain.       |not uploaded       
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+#### Leadership and Influence:
 
+-During my time in college, I had the opportunity to develop and demonstrate my leadership and influencing skills through various roles and responsibilities. As an NSS volunteer, I organized and led community service projects that involved coordinating with team members, managing logistics, and ensuring the successful execution of events. These experiences taught me the importance of teamwork, effective communication, and strategic planning.In addition to my role with the NSS, I was an active IEEE volunteer, where I took on the responsibility of organizing technical workshops and seminars. This role required me to influence and motivate my peers to participate and engage in these events, which enhanced my ability to inspire and drive others towards a common goal.Furthermore, serving as the class representative provided me with a platform to represent my classmates' interests and concerns. I acted as a liaison between the students and faculty, advocating for my peers and facilitating effective communication. This position honed my leadership skills, as I had to balance diverse opinions, make informed decisions, and lead by example.Through these experiences, I have developed a strong foundation in leadership and influence, which I am eager to bring into my professional career. My ability to lead, inspire, and effectively communicate has been instrumental in my personal growth and will continue to guide me as I take on new challenges and opportunities.
+#### Networking:
 
+- As a recent graduate and a former NSS volunteer, I have developed strong networking skills that I plan to leverage as I engage with the professional community. My experience with the NSS has been instrumental in shaping my ability to connect with diverse groups of people and collaborate towards common goals.
 
+#### Career Plan:
 
+- My short term goal is get job in a reputed compoany and improve my skills. My long term goal is to lead a team in my organisation and work for the growth of my organisation.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
-
-#
-
-
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+- In my view, Kerala has tremendous potential to excel in the technology startup ecosystem. The state boasts a highly literate population, strong educational institutions, and a growing number of tech-savvy young professionals. To harness this potential, Kerala needs to focus on a few key areas.
